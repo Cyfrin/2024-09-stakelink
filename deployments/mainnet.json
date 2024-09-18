@@ -1,0 +1,207 @@
+{
+  "LPLToken": {
+    "address": "0x99295f1141d58a99e939f7be6bbe734916a875b8",
+    "artifact": "contracts/core/tokens/base/ERC677.sol:ERC677"
+  },
+  "LINKToken": {
+    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "artifact": "contracts/core/tokens/base/ERC677.sol:ERC677"
+  },
+  "SDLToken": {
+    "address": "0xA95C5ebB86E0dE73B4fB8c47A45B792CFeA28C23",
+    "artifact": "StakingAllowance"
+  },
+  "METISToken": {
+    "address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+    "artifact": "@openzeppelin/contracts/token/ERC20/ERC20.sol:ERC20"
+  },
+  "LPLMigration": {
+    "address": "0x08341befE6428568cdF798D19223821697DcEC15",
+    "artifact": "LPLMigration"
+  },
+  "FlatFee": {
+    "address": "0x8ef5d844De9bbf52FCacED2ecf66B7FAf0B3AA12",
+    "artifact": "FlatFee"
+  },
+  "DelegatorPool": {
+    "address": "0xAEF186611EC96427d161107fFE14bba8aA1C2284",
+    "artifact": "DelegatorPool"
+  },
+  "PoolRouter": {
+    "address": "0x9AE7895258efB5eBDa3e97E26f9819287c668A9A",
+    "artifact": "PoolRouter"
+  },
+  "LINK_StakingPool": {
+    "address": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
+    "artifact": "StakingPool"
+  },
+  "LINK_WrappedSDToken": {
+    "address": "0x911D86C72155c33993d594B0Ec7E6206B4C803da",
+    "artifact": "WrappedSDToken"
+  },
+  "stLINK_DelegatorRewardsPool": {
+    "address": "0xbcD10c166b83Edb0EbD05aaca5fACab9C0a307F0",
+    "artifact": "RewardsPoolWSD"
+  },
+  "LINK_OperatorVCS": {
+    "address": "0x4852e48215A4785eE99B640CACED5378Cc39D2A4",
+    "artifact": "OperatorVCS"
+  },
+  "stETHToken": {
+    "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "artifact": "ERC20"
+  },
+  "rETHToken": {
+    "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+    "artifact": "ERC20"
+  },
+  "ixETH_WrappedSDToken": {
+    "address": "0x1A72bE10F6E6CF0CA100a407352E50d0ed653dEc",
+    "artifact": "WrappedSDToken"
+  },
+  "ETH_LiquidSDIndexPool": {
+    "address": "0x535321013A1E2D5aF3B1853812a64CA3fc6C1fa1",
+    "artifact": "LiquidSDIndexPool"
+  },
+  "ixETH_LidoLSDIndexAdapter": {
+    "address": "0xEb9f29b6395Db28C0861C24f1cbFCEee1ff0791D",
+    "artifact": "LidoLSDIndexAdapter"
+  },
+  "ixETH_RocketPoolLSDIndexAdapter": {
+    "address": "0x6025533B9E095AB2730E1Ad50219be8293d66220",
+    "artifact": "RocketPoolLSDIndexAdapter"
+  },
+  "cbETHToken": {
+    "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+    "artifact": "ERC20"
+  },
+  "sfrxETHToken": {
+    "address": "0xac3E018457B222d93114458476f3E3416Abbe38F",
+    "artifact": "ERC20"
+  },
+  "ixETH_CoinbaseLSDIndexAdapter": {
+    "address": "0x2401E9cEada76a59753549f71858A3ece906f197",
+    "artifact": "CoinbaseLSDIndexAdapter"
+  },
+  "ixETH_FraxLSDIndexAdapter": {
+    "address": "0x7700A0E892db04f4ee0f2fE7b4f32a2cDF200164",
+    "artifact": "FraxLSDIndexAdapter"
+  },
+  "LinearBoostController": {
+    "address": "0x14b2F86c159199b6CBa593438aE89078dfB83698",
+    "artifact": "LinearBoostController"
+  },
+  "SDLPool": {
+    "address": "0x0B2eF910ad0b34bf575Eb09d37fd7DA6c148CA4d",
+    "artifact": "SDLPool"
+  },
+  "stLINK_SDLRewardsPool": {
+    "address": "0x8753C00D1a94D04A01b931830011d882A3F8Cc72",
+    "artifact": "RewardsPoolWSD"
+  },
+  "LINK_PriorityPool": {
+    "address": "0xDdC796a66E8b83d0BcCD97dF33A6CcFBA8fd60eA",
+    "artifact": "PriorityPool"
+  },
+  "SDL_Vesting_NOP0": {
+    "address": "0xCc8f8F89ef7Ba61e6a649b48221B0Cf2544171cb",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP1": {
+    "address": "0x4e930b7D9E366b8b270aC0FC56f040A8746566C6",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP2": {
+    "address": "0x576FC58B247963D8De9AA4018ABB0240D0465A31",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP3": {
+    "address": "0xd9d1b5132Ef63fC0e9056d063880e7b943ea2C6B",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP4": {
+    "address": "0x7287d90ed89d586d0d4B09f683C7f06A3e9a0997",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP5": {
+    "address": "0x80B9d842081972D641375420D256ad1EdCB47E40",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP6": {
+    "address": "0x8d0422D9859B2CB98761428B4518059e1cB3e8D9",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP7": {
+    "address": "0xFbfEf8aC9d267c463c2280bf35c9FffEBaEc983e",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP8": {
+    "address": "0xCd682dd9EcD4991d04787727FE669947d67849c2",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP9": {
+    "address": "0x8Dbc8027EBeE31BAB05ADE462B43A579575aEfad",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP10": {
+    "address": "0x6E368C33B98dFB0a376534429bE8a065b47918E7",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP11": {
+    "address": "0x39f9F3d7203C5b13e3C2682362B608e20dF02194",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP12": {
+    "address": "0xf69F5c5F788Fae16eD8950e634E8280925D4cCEB",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_NOP13": {
+    "address": "0x3Cb7B3Fe89cAD7Fcf7fcbbEf1933eAD13CDA5c6c",
+    "artifact": "Vesting"
+  },
+  "SDL_Vesting_LinkPool": {
+    "address": "0x2861382Ef967E5B539b5BDF9fFCC52Fa4056eaE6",
+    "artifact": "Vesting"
+  },
+  "LINK_CommunityVCS": {
+    "address": "0xAc12290b097f6893322F5430627e472131fBC1B5",
+    "artifact": "CommunityVCS"
+  },
+  "LINK_PP_DistributionOracle": {
+    "address": "0x2285AC429cCCAaE7cC1E27BfBe617bC626B443CF",
+    "artifact": "DistributionOracle"
+  },
+  "stLINK_WrappedTokenBridge": {
+    "address": "0x6C1E2D2c55C83De945e3f37dF694cdE8452C1E82",
+    "artifact": "WrappedTokenBridge"
+  },
+  "METIS_StakingPool": {
+    "address": "0x6301330F485b2732048Ce701286731e399acd799",
+    "artifact": "StakingPool"
+  },
+  "METIS_SequencerVCS": {
+    "address": "0x2FD2b375bE982d7464b39E8668AB6AD31fF6Db67",
+    "artifact": "SequencerVCS"
+  },
+  "METIS_SequencerRewardsCCIPReceiver": {
+    "address": "0x49cCA9f37373041B1B29e15e3Eb8C6c205C200de",
+    "artifact": "SequencerRewardsCCIPReceiver"
+  },
+  "METIS_PriorityPool": {
+    "address": "0x7498a1f8d3B537804144719b4076DcE110a34902",
+    "artifact": "PriorityPool"
+  },
+  "METIS_WrappedSDToken": {
+    "address": "0xB127D349eedB755C8ebAbf116d126B58F7B29Cbc",
+    "artifact": "WrappedSDToken"
+  },
+  "stMETIS_SDLRewardsPool": {
+    "address": "0xc3dbba165C92e6d6efA3394ff67D219Ebe1DF6bB",
+    "artifact": "RewardsPoolWSD"
+  },
+  "METIS_PP_DistributionOracle": {
+    "address": "0xc8d54e58981009c04037a6ee7d4fc32d0f4da9be",
+    "artifact": "DistributionOracle"
+  }
+
+}

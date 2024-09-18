@@ -1,0 +1,21 @@
+{
+    "METISToken": {
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "artifact": "@openzeppelin/contracts/token/ERC20/ERC20.sol:ERC20"
+    },
+    "METIS_SequencerRewardsCCIPSender": {
+      "address": "0x8d87CBD8C3632b7ef117A15F8100943a23b7D03b",
+      "artifact": "SequencerRewardsCCIPSender"
+    },
+    "METIS_WrappedSDToken": {
+      "address": "0xB6196B3B89981483C27ab642b27743a62c3D68aC",
+      "artifact": "BurnMintERC677"
+    }
+}
+
+
+
+
+
+  
+

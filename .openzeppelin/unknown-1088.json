@@ -1,0 +1,177 @@
+{
+  "manifestVersion": "3.2",
+  "proxies": [
+    {
+      "address": "0x8d87CBD8C3632b7ef117A15F8100943a23b7D03b",
+      "txHash": "0xd3d2f739832ccda859262506bca8eb9e4a0bd0fb744c7b47100a15f4cd702af2",
+      "kind": "uups"
+    }
+  ],
+  "impls": {
+    "4dce6330016435b59952cd09eb7d218aab09ad3df62808f708086b3595e63559": {
+      "address": "0x3B82340a804776Ee27B22a833204c637a429DBd2",
+      "txHash": "0x290f0506a8c830616511f707e830a1cd5844b71e0bfd9024bb47aa4503be5b57",
+      "layout": {
+        "solcVersion": "0.8.15",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:169"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:111"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "router",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IRouterClient)108",
+            "contract": "SequencerRewardsCCIPSender",
+            "src": "contracts/metisStaking/ccip/SequencerRewardsCCIPSender.sol:18"
+          },
+          {
+            "label": "linkToken",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_contract(IERC20Upgradeable)3982",
+            "contract": "SequencerRewardsCCIPSender",
+            "src": "contracts/metisStaking/ccip/SequencerRewardsCCIPSender.sol:19"
+          },
+          {
+            "label": "metisToken",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(IERC20Upgradeable)3982",
+            "contract": "SequencerRewardsCCIPSender",
+            "src": "contracts/metisStaking/ccip/SequencerRewardsCCIPSender.sol:20"
+          },
+          {
+            "label": "transferInitiator",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "SequencerRewardsCCIPSender",
+            "src": "contracts/metisStaking/ccip/SequencerRewardsCCIPSender.sol:22"
+          },
+          {
+            "label": "destinationChainSelector",
+            "offset": 20,
+            "slot": "204",
+            "type": "t_uint64",
+            "contract": "SequencerRewardsCCIPSender",
+            "src": "contracts/metisStaking/ccip/SequencerRewardsCCIPSender.sol:24"
+          },
+          {
+            "label": "destinationReceiver",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "SequencerRewardsCCIPSender",
+            "src": "contracts/metisStaking/ccip/SequencerRewardsCCIPSender.sol:25"
+          },
+          {
+            "label": "extraArgs",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_bytes_storage",
+            "contract": "SequencerRewardsCCIPSender",
+            "src": "contracts/metisStaking/ccip/SequencerRewardsCCIPSender.sol:27"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes_storage": {
+            "label": "bytes",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IERC20Upgradeable)3982": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IRouterClient)108": {
+            "label": "contract IRouterClient",
+            "numberOfBytes": "20"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    }
+  }
+}
