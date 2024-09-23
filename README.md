@@ -1,14 +1,14 @@
 # stake.link
 
-### Prize Pool TO BE FILLED OUT BY CYFRIN
+### Prize Pool
 
-- Total Pool - $40,000
-- H/M - $34,000
-- Low - $3,000
-- Community Judging -$3,000
+- Total Pool - $50,000
+- H/M - $42,000
+- Low - $4,250
+- Community Judging -$3,750
 
-- Starts:
-- Ends:
+- Starts: September 30, 2024 Noon UTC
+- Ends: October 17, 2024 Noon UTC
 
 - nSLOC: 2530
 
