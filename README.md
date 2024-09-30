@@ -106,5 +106,6 @@ yarn test
 ## Known Issues
 
 - All issues in past audit reports listed [here](https://github.com/stakedotlink/contracts/tree/native-link-withdrawals/audits)
+- [Additional Known Issues](https://github.com/Cyfrin/2024-09-stakelink/issues/1) as Detected by LightChaser
 
   [//]: # (known-issues-close)
