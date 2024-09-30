@@ -51,23 +51,23 @@ The following contracts are in scope:
 ```js
 contracts/
 └── core/
-    ├── lstRewardsSplitter/
-    │   ├── LSTRewardsSplitter.sol
-    │   └── LSTRewardsSplitterController.sol
-    ├── priorityPool/
-    │   ├── PriorityPool.sol
-    │   └── WithdrawalPool.sol
-    ├── StakingPool.sol
-    └── linkStaking/
-        ├── base/
-        │   ├── Vault.sol
-        │   └── VaultControllerStrategy.sol
-        ├── CommunityVault.sol
-        ├── CommunityVCS.sol
-        ├── FundFlowController.sol
-        ├── OperatorStakingPool.sol
-        ├── OperatorVault.sol
-        └── OperatorVCS.sol
+|   ├── lstRewardsSplitter/
+|   │   ├── LSTRewardsSplitter.sol
+|   │   └── LSTRewardsSplitterController.sol
+|   ├── priorityPool/
+|   │   ├── PriorityPool.sol
+|   │   └── WithdrawalPool.sol
+|   ├── StakingPool.sol
+└── linkStaking/
+    ├── base/
+    │   ├── Vault.sol
+    │   └── VaultControllerStrategy.sol
+    ├── CommunityVault.sol
+    ├── CommunityVCS.sol
+    ├── FundFlowController.sol
+    ├── OperatorStakingPool.sol
+    ├── OperatorVault.sol
+    └── OperatorVCS.sol
 ```
 
 ## Compatibilities
