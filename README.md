@@ -18,6 +18,8 @@
 
 stake.link is a first-of-its-kind liquid delegated staking platform delivering DeFi composability for Chainlink Staking. Built by premier Chainlink ecosystem developer LinkPool, powered by Chainlink node operators, and governed by the stake.link DAO, stake.link's extensible architecture is purpose-built to support Chainlink Staking and to extend participation in the Chainlink Network.
 
+![Protocol Diagram](https://res.cloudinary.com/droqoz7lg/image/upload/v1727800681/link-staking-diagram_h9yjdz.png)
+
 - [Website](https://stake.link/)
 - [Twitter](https://x.com/stakedotlink)
 - [GitHub](https://github.com/stakedotlink/contracts)
